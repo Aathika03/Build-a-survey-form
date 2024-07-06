@@ -10,7 +10,7 @@
     <meta name="viewport" 
           content="width=device-width, initial-scale=1.0">
     <title>
-        Build a Survey Form using HTML and CSS
+        Build a Survey Form
     </title>
 
     <style>
@@ -80,7 +80,7 @@
 </head>
 
 <body>
-    <h1>GeeksforGeeks Survey Form</h1>
+    <h1> Survey Form</h1>
 
     <!-- Create Form -->
     <form id="form">
